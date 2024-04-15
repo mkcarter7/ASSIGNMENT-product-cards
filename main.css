@@ -1,0 +1,18 @@
+body{
+  background-color: aqua;
+}
+
+.card-container{
+display: flex;
+}
+
+.card-body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-title{
+  color: white;
+}
+.card-text{
+  font-size: smaller;
+}
